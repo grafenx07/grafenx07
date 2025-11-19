@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grafenaveiro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&random=false&width=435&lines=AI+%2F+ML+Developer;Computer+Vision+Expert;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDEF7&center=true&vCenter=true&random=false&width=435&lines=AI+%2F+ML;Computer+Vision+Expert;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
