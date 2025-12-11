@@ -31,9 +31,9 @@
 
 <!-- Animated Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -265,35 +265,34 @@ pyttsx3 • OpenWeatherMap API • Wikipedia API
 
 <div align="center">
 
-### 🔮 More Projects Coming Soon!
+### 🎓 Study Jarvis - AI Study Assistant
 
-<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/AI-RAG%20%2B%20LLM-purple?style=for-the-badge" alt="AI"/>
 
-[![Explore All](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07?tab=repositories)
+[![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/study-jarvis)
+[![Stars](https://img.shields.io/github/stars/grafenx07/study-jarvis?style=for-the-badge&logo=github)](https://github.com/grafenx07/study-jarvis/stargazers)
 
 </div>
 
-**🚧 Currently Working On:**
+**🛠️ Tech Stack:**
+```
+Python • FastAPI • Ollama (LLaMA 3)
+Pinecone • RAG • SentenceTransformers
+HTML/CSS/JS • Vector Embeddings
+```
 
-- 🧠 **Deep Learning Image Classifier**
-  - Transfer learning with PyTorch
-  - Custom CNN architectures
+**✨ Key Features:**
+- 📚 Upload & manage study notes (PDF/DOCX/TXT)
+- 💬 Intelligent Q&A using RAG architecture
+- 📝 Auto-generate summaries from notes
+- 📋 Create practice quizzes automatically
+- 🎴 Generate flashcards for study
+- 🔍 Semantic search with vector embeddings
+- 🏠 Self-hosted with local LLM
+- 💾 Chat history & conversation management
 
-- 🏥 **Medical Diagnosis Assistant**
-  - Disease prediction using ML
-  - Medical image analysis
-
-- 📱 **Full Stack Web Applications**
-  - React + Flask stack
-  - RESTful API development
-
-- 🎮 **AI Game Bot**
-  - Reinforcement learning
-  - OpenAI Gym integration
-
-**💡 Ideas & Contributions Welcome!**
-
-Star ⭐ the repositories you find interesting!
+**🎯 Use Cases:** Exam preparation, research notes, learning assistance
 
 ---
 
@@ -335,16 +334,6 @@ Star ⭐ the repositories you find interesting!
 [![Grafenberg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=grafenx07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 💡 What I'm Currently Working On
-
-- 🔭 Building intelligent AI-powered applications
-- 🌱 Learning advanced deep learning techniques
-- 👯 Looking to collaborate on open-source AI/ML projects
-- 💬 Ask me about Python, Computer Vision, or Flask
-- ⚡ Fun fact: I love automating everything!
 
 ---
 
