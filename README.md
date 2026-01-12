@@ -11,7 +11,7 @@
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <!-- Animated Wave GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -32,7 +32,7 @@
 <!-- Animated Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake. svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
@@ -50,7 +50,7 @@
 
 class Grafenberg:
     """
-    🚀 Welcome to my GitHub Profile!
+    🚀 Welcome to my GitHub Profile! 
     Full Stack Developer passionate about AI/ML and Computer Vision
     """
 
@@ -89,7 +89,7 @@ class Grafenberg:
         """How to reach me"""
         return {
             "email": "grafenaveiro@gmail.com",
-            "linkedin": "grafenberg-langpenn",
+            "linkedin":  "grafenberg-langpenn",
             "github": "@grafenx07"
         }
 
@@ -97,7 +97,7 @@ class Grafenberg:
 developer = Grafenberg()
 developer.say_hi()
 
-# Output:
+# Output: 
 # 👋 Thanks for visiting my profile!
 # 🌟 Let's build something amazing together!
 # 💡 Always open to innovative ideas and collaborations!
@@ -125,7 +125,7 @@ developer.say_hi()
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🤖 AI/ML & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -163,7 +163,7 @@ developer.say_hi()
 
 ### 🎭 Face Attendance Recognition System
 
-<img src="https://img.shields.io/badge/Status-Production-success?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-Production-success? style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/AI/ML-FaceNet-blue?style=for-the-badge" alt="AI"/>
 
 [![View Project](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/Face-Attendance-Recognition)
@@ -298,7 +298,9 @@ HTML/CSS/JS • Vector Embeddings
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -321,7 +323,7 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/? username=grafenx07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -331,7 +333,7 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![Grafenberg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=grafenx07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grafenberg's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=grafenx07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -341,18 +343,19 @@ HTML/CSS/JS • Vector Embeddings
 
 ```text
 AI/ML & Computer Vision  ████████████████████░  95%
-Python Development       ████████████████████░  95%
+Python Development       ██████████��█████████░  95%
 Web Development          ███████████████████░░  85%
 Database Management      ██████████████████░░░  80%
 Problem Solving          ████████████████████░  95%
 ```
+
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect! 
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects or discussing new technologies!
+I'm always interested in collaborating on innovative projects or discussing new technologies! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grafenberg-langpenn-20191a1a5/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grafenaveiro@gmail.com)
@@ -378,7 +381,3 @@ I'm always interested in collaborating on innovative projects or discussing new 
 ⭐ **If you like my work, consider giving some repositories a star!** ⭐
 
 </div>
-
-
-
-
