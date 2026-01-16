@@ -11,7 +11,7 @@
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Vision+Expert;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3CDEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Computer+Vision+Expert;Open+Source+Contributor" alt="Typing SVG" />
 
 <!-- Animated Wave GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -32,7 +32,7 @@
 <!-- Animated Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake. svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
@@ -50,7 +50,7 @@
 
 class Grafenberg:
     """
-    🚀 Welcome to my GitHub Profile!  
+    🚀 Welcome to my GitHub Profile!   
     Full Stack Developer passionate about AI/ML and Computer Vision
     """
 
@@ -89,18 +89,18 @@ class Grafenberg:
         """How to reach me"""
         return {
             "email": "grafenaveiro@gmail.com",
-            "linkedin":  "grafenberg-langpenn",
-            "github": "@grafenx07"
+            "linkedin":   "grafenberg-langpenn",
+            "github":  "@grafenx07"
         }
 
 # Initialize and greet
 developer = Grafenberg()
 developer.say_hi()
 
-# Output:   
+# Output:    
 # 👋 Thanks for visiting my profile!
-# 🌟 Let's build something amazing together! 
-# 💡 Always open to innovative ideas and collaborations!  
+# 🌟 Let's build something amazing together!  
+# 💡 Always open to innovative ideas and collaborations!   
 ```
 
 </div>
@@ -313,7 +313,7 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=grafenx07&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=grafenx07&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -355,9 +355,9 @@ Problem Solving          ██████████████████�
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects or discussing new technologies!  
+I'm always interested in collaborating on innovative projects or discussing new technologies!   
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grafenberg-langpenn-20191a1a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grafenberg-langpenn-20191a1a5/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grafenaveiro@gmail.com)
 
 </div>
@@ -368,11 +368,11 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 ### 💭 Daily Inspiration
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🌟 Thank You for Visiting! 
+### 🌟 Thank You for Visiting!  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
