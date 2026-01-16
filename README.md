@@ -31,8 +31,8 @@
 
 <!-- Animated Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake. svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark. svg">
+  <source media="(prefers-color-scheme:  light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
@@ -97,10 +97,10 @@ class Grafenberg:
 developer = Grafenberg()
 developer.say_hi()
 
-# Output: 
+# Output:  
 # 👋 Thanks for visiting my profile!
 # 🌟 Let's build something amazing together!
-# 💡 Always open to innovative ideas and collaborations!
+# 💡 Always open to innovative ideas and collaborations! 
 ```
 
 </div>
@@ -306,14 +306,14 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=grafenx07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api? username=grafenx07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafenx07&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grafenx07&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=grafenx07&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -323,7 +323,7 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/? username=grafenx07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -333,7 +333,7 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![Grafenberg's github activity graph](https://github-readme-activity-graph.vercel. app/graph?username=grafenx07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Grafenberg's github activity graph](https://github-readme-activity-graph. vercel.app/graph?username=grafenx07&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -343,7 +343,7 @@ HTML/CSS/JS • Vector Embeddings
 
 ```text
 AI/ML & Computer Vision  ████████████████████░  95%
-Python Development       ██████████��█████████░  95%
+Python Development       ████████████████████░  95%
 Web Development          ███████████████████░░  85%
 Database Management      ██████████████████░░░  80%
 Problem Solving          ████████████████████░  95%
@@ -351,7 +351,7 @@ Problem Solving          ██████████████████�
 
 ---
 
-## 📫 Let's Connect! 
+## 📫 Let's Connect!
 
 <div align="center">
 
@@ -368,7 +368,7 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 ### 💭 Daily Inspiration
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme. vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
