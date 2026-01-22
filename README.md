@@ -111,7 +111,11 @@ const grafenberg = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -121,15 +125,64 @@ const grafenberg = {
 
 <div align="center">
 
-[![Face Attendance Recognition](https://github-readme-stats.vercel.app/api/pin/?username=grafenx07&repo=Face-Attendance-Recognition&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/grafenx07/Face-Attendance-Recognition)
-[![Accident Detection](https://github-readme-stats.vercel.app/api/pin/?username=grafenx07&repo=Accident-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/grafenx07/Accident-Detection)
+<table>
+<tr>
+<td width="50%" align="center">
+  
+### 🎭 Face Attendance Recognition
 
-</div>
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/Face-Attendance-Recognition)
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-[![Virtual Assistant](https://github-readme-stats.vercel.app/api/pin/?username=grafenx07&repo=Virtual-Assistant&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/grafenx07/Virtual-Assistant)
-[![Study Jarvis](https://github-readme-stats.vercel.app/api/pin/?username=grafenx07&repo=study-jarvis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/grafenx07/study-jarvis)
+**Real-time face detection & automated attendance management system**
+
+</td>
+<td width="50%" align="center">
+  
+### 🚨 Accident Detection System
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/Accident-Detection)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**AI-powered CCTV accident detection with instant alerts**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+  
+### 🤖 Virtual Assistant
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/Virtual-Assistant)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-NLP-purple?style=flat-square)
+
+**Voice-activated multifunctional AI assistant**
+
+</td>
+<td width="50%" align="center">
+  
+### 🎓 Study Jarvis
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grafenx07/study-jarvis)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-RAG-purple?style=flat-square)
+
+**AI study assistant with RAG architecture**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -159,8 +212,11 @@ const grafenberg = {
 
 ### ✨ Show some ❤️ by starring some repositories!
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="400">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+**Made with ❤️ and ☕ by Grafenberg Langpen**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
