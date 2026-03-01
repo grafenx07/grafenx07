@@ -381,8 +381,11 @@ HTML/CSS/JS • Vector Embeddings
 
 ## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07&theme=onedark)]
+
+</div>
 ---
 
 ---
