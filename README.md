@@ -353,6 +353,7 @@ HTML/CSS/JS • Vector Embeddings
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -380,14 +381,7 @@ HTML/CSS/JS • Vector Embeddings
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=grafenx07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=2&column=4"
-      alt="trophy"
-    />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
