@@ -383,12 +383,11 @@ HTML/CSS/JS • Vector Embeddings
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07&theme=onedark)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grafenx07&show_icons=true&theme=tokyonight)
 
 </div>
 ---
 
----
 
 ## 📊 Coding Activity & Stats
 
