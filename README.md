@@ -16,7 +16,7 @@
 <!-- Animated Wave GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<!-- Social Badges with Hover Effects -->
+<!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/grafenberg-langpenn-20191a1a5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
@@ -32,21 +32,21 @@
   </a>
 </p>
 
-<!-- GitHub 3D Contribution Snake -->
+<!-- GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/grafenx07/grafenx07/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- 3D Spaceship Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- Spaceship Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/225583593-f95a85c3-1937-4a4a-8a4d-73c1abc0b471.gif" width="900">
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 Introduction
+## 🎯 About Me
 
 <div align="center">
 
@@ -132,15 +132,15 @@ developer.say_hi()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🤖 AI/ML & Computer Vision
@@ -163,12 +163,12 @@ developer.say_hi()
 ### 🔧 Developer Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -220,8 +220,6 @@ MySQL • HTML/CSS • JavaScript
 
 **🎯 Use Cases:** Educational institutions, corporate offices, event management
 
----
-
 </td>
 <td width="50%" valign="top">
 
@@ -256,8 +254,6 @@ LabelImg • Tkinter • Custom Dataset
 - 📹 Video recording on detection
 
 **🎯 Use Cases:** Traffic monitoring, highway safety, smart city solutions
-
----
 
 </td>
 </tr>
@@ -299,14 +295,12 @@ pyttsx3 • OpenWeatherMap API • Wikipedia API
 
 **🎯 Use Cases:** Personal productivity, hands-free computing, accessibility
 
----
-
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🎓 Study Jarvis - AI Study Assistant
+### 🎓 Study Jarvis — AI Study Assistant
 
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
 <img src="https://img.shields.io/badge/AI-RAG%20%2B%20LLM-purple?style=for-the-badge" alt="AI"/>
@@ -339,20 +333,15 @@ HTML/CSS/JS • Vector Embeddings
 
 **🎯 Use Cases:** Exam preparation, research notes, learning assistance
 
----
-
 </td>
 </tr>
 </table>
 
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 </div>
 
 ---
-
 
 ## 📊 GitHub Statistics
 
@@ -379,15 +368,15 @@ HTML/CSS/JS • Vector Embeddings
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grafenx07&show_icons=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=grafenx07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
----
 
+---
 
 ## 📊 Coding Activity & Stats
 
@@ -470,7 +459,7 @@ graph TD
 
 ### 💬 Let's Build Something Amazing Together!
 
-I'm always interested in collaborating on innovative projects or discussing new technologies!
+I'm always open to collaborating on innovative projects or discussing cutting-edge technologies.
 
 <br>
 
@@ -484,13 +473,13 @@ I'm always interested in collaborating on innovative projects or discussing new 
 ### 📧 Contact Information
 
 ```yaml
-email: grafenaveiro@gmail.com
-linkedin: grafenberg-langpenn-20191a1a5
-github: grafenx07
-location: India 🇮🇳
-timezone: IST (UTC+5:30)
+email:        grafenaveiro@gmail.com
+linkedin:     grafenberg-langpenn-20191a1a5
+github:       grafenx07
+location:     India 🇮🇳
+timezone:     IST (UTC+5:30)
 availability: Open for opportunities
-response_time: Within 24 hours
+response:     Within 24 hours
 ```
 
 </div>
@@ -516,10 +505,6 @@ const grafenberg = {
 };
 ```
 
-### 📊 Profile Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/grafenx07/count.svg)
-
 ### 🌟 Support My Work
 
 If you find my projects helpful, consider buying me a coffee! ☕
@@ -538,7 +523,3 @@ If you find my projects helpful, consider buying me a coffee! ☕
 **Made with ❤️ and ☕ by Grafenberg Langpen**
 
 ⭐ **If you like my work, consider giving some repositories a star!** ⭐
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2)
-
-</div>
